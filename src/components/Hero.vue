@@ -14,7 +14,7 @@
       </p>
       <div class="actions">
         <base-button class="button-left"
-          >Download <span>v3.14</span></base-button
+          >Download <span>v1.3</span></base-button
         >
         <base-button color="purple">What is it?</base-button>
       </div>

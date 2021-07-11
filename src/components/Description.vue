@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <h2>BUILT FOR MODERN USE</h2>
-    <h1>Smarter mettings, all in one place</h1>
+    <h1>Smarter meetings, all in one place</h1>
     <p>
       Send messages, share files, show your screen, and record your meetings -
       all in one workspace. Control who can join with invite-only team access,

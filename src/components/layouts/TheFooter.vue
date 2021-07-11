@@ -8,7 +8,7 @@
           Stay connected with reliable HD meetings and unlimited one-on-one and
           group video sessions.
         </p>
-        <base-button color="purple">Download <span>v3.14</span></base-button>
+        <base-button color="purple">Download <span>v1.3</span></base-button>
       </div>
     </section>
   </div>
