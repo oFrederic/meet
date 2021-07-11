@@ -1,12 +1,12 @@
 <template>
-  <div class="wrapper">
-    <div class="container">
+  <section class="wrapper">
+    <div role="img" class="container">
       <img :src="image1" alt="woman in videocall" />
       <img :src="image2" alt="women video chatting" />
       <img :src="image3" alt="men in meeting" />
       <img :src="image4" alt="man texting" />
     </div>
-  </div>
+  </section>
 </template>
 
 <script>

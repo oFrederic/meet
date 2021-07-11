@@ -1,8 +1,8 @@
 <template>
-  <div class="container">
+  <section class="container">
     <img :src="backgroundImage" alt="background image" />
     <section class="overlay">
-      <div class="wrapper">
+      <div role="document" class="wrapper">
         <h1>Experience more together</h1>
         <p>
           Stay connected with reliable HD meetings and unlimited one-on-one and
@@ -11,7 +11,7 @@
         <base-button color="purple">Download <span>v1.3</span></base-button>
       </div>
     </section>
-  </div>
+  </section>
 </template>
 
 <script>
