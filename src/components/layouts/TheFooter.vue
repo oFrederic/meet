@@ -15,7 +15,7 @@
 </template>
 
 <script>
-import backgroundImage from '../../assets/desktop/image-footer.jpg';
+import backgroundImage from '../../assets/images/image-footer.jpg';
 export default {
   setup() {
     return {

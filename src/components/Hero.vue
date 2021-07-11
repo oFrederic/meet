@@ -40,8 +40,8 @@
 </template>
 
 <script>
-import heroLeft from '../assets/desktop/image-hero-left.png';
-import heroRight from '../assets/desktop/image-hero-right.png';
+import heroLeft from '../assets/images/image-hero-left.png';
+import heroRight from '../assets/images/image-hero-right.png';
 import BaseButton from './UI/BaseButton.vue';
 export default {
   components: { BaseButton },

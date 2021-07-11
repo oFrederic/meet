@@ -10,10 +10,10 @@
 </template>
 
 <script>
-import image1 from '../assets/desktop/image-woman-in-videocall.jpg';
-import image2 from '../assets/desktop/image-women-videochatting.jpg';
-import image3 from '../assets/desktop/image-men-in-meeting.jpg';
-import image4 from '../assets/desktop/image-man-texting.jpg';
+import image1 from '../assets/images/image-woman-in-videocall.jpg';
+import image2 from '../assets/images/image-women-videochatting.jpg';
+import image3 from '../assets/images/image-men-in-meeting.jpg';
+import image4 from '../assets/images/image-man-texting.jpg';
 export default {
   setup() {
     return {
