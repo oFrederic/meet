@@ -1,5 +1,5 @@
 <template>
-  <section class="container">
+  <section role="article" class="container">
     <div role="img" title="multiple profiles pictures" class="hero-left">
       <img :src="heroLeft" alt="multiple profiles pictures" />
     </div>
@@ -32,7 +32,7 @@
       Meet makes it easy to connect with others face-to-face virtually and
       collaborate across any device
     </p>
-    <div class="actions">
+    <div role="button" class="actions">
       <base-button class="button-left">Download <span>v3.14</span></base-button>
       <base-button color="purple">What is it?</base-button>
     </div>
