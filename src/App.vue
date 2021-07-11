@@ -5,7 +5,7 @@
     <base-step number="01" />
     <album />
     <description />
-    <div role="figure" class="step-container">
+    <div class="step-container">
       <base-step number="02" />
     </div>
   </main>

@@ -1,5 +1,5 @@
 <template>
-  <div role="img" title="logo" class="container">
+  <div class="container">
     <img :src="logo" alt="my-logo" />
   </div>
 </template>

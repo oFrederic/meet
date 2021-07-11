@@ -1,5 +1,5 @@
 <template>
-  <section role="article" class="container">
+  <section class="container">
     <h2>BUILT FOR MODERN USE</h2>
     <h1>Smarter meetings, all in one place</h1>
     <p>

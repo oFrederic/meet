@@ -1,6 +1,6 @@
 <template>
-  <div role="figure" class="line"></div>
-  <div role="figure" class="circle">{{ number }}</div>
+  <div class="line"></div>
+  <div class="circle">{{ number }}</div>
 </template>
 
 <script>

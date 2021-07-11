@@ -1,9 +1,9 @@
 <template>
-  <section role="article" class="container">
-    <div role="img" title="multiple profiles pictures" class="hero-left">
+  <section class="container">
+    <div class="hero-left">
       <img :src="heroLeft" alt="multiple profiles pictures" />
     </div>
-    <div role="article" class="content-large">
+    <div class="content-large">
       <h1>
         Group Chat<br />
         for Everyone
@@ -19,11 +19,11 @@
         <base-button color="purple">What is it?</base-button>
       </div>
     </div>
-    <div role="img" title="multiple profiles pictures" class="hero-right">
+    <div class="hero-right">
       <img :src="heroRight" alt="multiple profiles pictures" />
     </div>
   </section>
-  <div role="article" class="content-default">
+  <section class="content-default">
     <h1>
       Group Chat<br />
       for Everyone
@@ -32,11 +32,11 @@
       Meet makes it easy to connect with others face-to-face virtually and
       collaborate across any device
     </p>
-    <div role="button" class="actions">
+    <div class="actions">
       <base-button class="button-left">Download <span>v3.14</span></base-button>
       <base-button color="purple">What is it?</base-button>
     </div>
-  </div>
+  </section>
 </template>
 
 <script>
