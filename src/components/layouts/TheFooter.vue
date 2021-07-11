@@ -56,7 +56,7 @@ img {
 
 .wrapper {
   margin: 4rem;
-  width: 1110px;
+  width: 111rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -70,7 +70,7 @@ img {
 }
 
 h1 {
-  max-width: 350px;
+  max-width: 35rem;
   color: white;
   font-size: 4rem;
   font-weight: 900;
@@ -82,7 +82,7 @@ h1 {
 }
 
 p {
-  width: 350px;
+  width: 35rem;
   color: white;
   font-size: 1.8rem;
   font-weight: 500;

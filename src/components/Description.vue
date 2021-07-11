@@ -27,17 +27,17 @@ export default {
   margin-bottom: 7.2rem;
 
   @media (max-width: 550px) {
-    height: 284px;
+    height: 28.4rem;
   }
 
   @media (max-width: 355px) {
-    height: 384px;
+    height: 38.4rem;
   }
 }
 
 h1 {
   max-width: 45rem;
-  margin: 0 26px;
+  margin: 0 2.6rem;
   line-height: 4.4rem;
   font-size: 4rem;
   font-weight: 900;
@@ -50,7 +50,7 @@ h1 {
 
 h2 {
   line-height: 2.6rem;
-  margin: 0 26px;
+  margin: 0 2.6rem;
   font-size: 1.6rem;
   letter-spacing: 0.4rem;
   font-weight: 900;
@@ -59,14 +59,14 @@ h2 {
 
 p {
   max-width: 52rem;
-  margin: 0 26px;
+  margin: 0 2.6rem;
   font-weight: 500;
   font-size: 1.8rem;
   line-height: 2.6rem;
   color: $grey-text-color;
 
   @media (max-width: 768px) {
-    max-width: 573px;
+    max-width: 57.3rem;
     font-size: 1.6rem;
   }
 }

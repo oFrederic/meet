@@ -27,7 +27,7 @@ export default {
 
 <style lang="scss" scoped>
 button {
-  height: 58px;
+  height: 5.8rem;
   padding: 0 4rem;
   border-radius: 3rem;
   border-style: none;

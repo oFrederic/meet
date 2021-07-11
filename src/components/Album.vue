@@ -39,7 +39,7 @@ export default {
   gap: 3rem;
 
   @media (max-width: 768px) {
-    gap: 11px;
+    gap: 1.1rem;
   }
 
   @media (max-width: 550px) {
