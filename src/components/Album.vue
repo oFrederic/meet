@@ -1,6 +1,6 @@
 <template>
   <section class="wrapper">
-    <div role="img" class="container">
+    <div role="img" title="multiple images" class="container">
       <img :src="image1" alt="woman in videocall" />
       <img :src="image2" alt="women video chatting" />
       <img :src="image3" alt="men in meeting" />

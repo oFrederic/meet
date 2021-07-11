@@ -1,9 +1,9 @@
 <template>
   <section class="container">
-    <div role="img" class="hero-left">
+    <div role="img" title="multiple profiles pictures" class="hero-left">
       <img :src="heroLeft" alt="multiple profiles pictures" />
     </div>
-    <div role="img" class="content-large">
+    <div role="article" class="content-large">
       <h1>
         Group Chat<br />
         for Everyone
@@ -19,11 +19,11 @@
         <base-button color="purple">What is it?</base-button>
       </div>
     </div>
-    <div role="img" class="hero-right">
+    <div role="img" title="multiple profiles pictures" class="hero-right">
       <img :src="heroRight" alt="multiple profiles pictures" />
     </div>
   </section>
-  <div class="content-default">
+  <div role="article" class="content-default">
     <h1>
       Group Chat<br />
       for Everyone
